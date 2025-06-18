@@ -41,6 +41,11 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/santhoshkumarsakthi2003?theme=dark&font=Consolas&extension=activity)](https://leetcode.com/santhoshkumarsakthi2003/)
 
 ---
+## 🚀 Github Activity
+
+[![Santhosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanthoshKumar-PS&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 🌐 Connect with me
 
@@ -48,3 +53,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__santho__)
 
 ---
+
+
