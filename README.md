@@ -75,6 +75,86 @@ Building Scalable Full Stack Applications with React & Node.js
 
 ## 📱 Featured Projects
 
+## 🌐 React & Node.js Projects
+
+### 📦 Multi-Warehouse Management *(Private)*
+**React • TypeScript • Node.js • Express • Prisma • MySQL**
+
+A scalable warehouse management system designed for managing inventory across multiple warehouses with role-based access control.
+
+**Features**
+- Multi-Warehouse Inventory
+- Purchase Orders
+- Transfer Orders
+- Inventory Transactions
+- Dashboard & Reports
+- Role-Based Access Control (RBAC)
+
+---
+
+### 📧 Email Notification System
+**React • TypeScript • Node.js • Bullmq**
+
+A notification platform for sending automated email alerts and transactional emails using reusable templates and background processing.
+
+🔗 Repository: https://github.com/SanthoshKumar-PS/Email-Notification-System
+
+---
+
+### ⚖️ LawVault
+**React • TypeScript • Node.js • AWS S3**
+
+A legal document management platform for securely organizing, searching, and managing legal records.
+
+🔗 Repository: https://github.com/SanthoshKumar-PS/LawVault
+
+---
+
+### 🏥 Physiotherapy Clinic
+**React • TypeScript**
+
+A clinic management system for handling appointments, patient records, and treatment workflows.
+
+🔗 Repository: https://github.com/SanthoshKumar-PS/Physiotherapy-Clinic
+
+---
+
+### 📊 Inventory Management – Trendora
+**React • TypeScript • Node.js • PostgreSQL**
+
+An inventory management solution featuring product management, stock tracking, and reporting.
+
+🔗 Repository: https://github.com/SanthoshKumar-PS/Inventory-Management-Trendora
+
+---
+
+### 🛍️ Trendora Shopping
+**React • TypeScript • Node.js • PostgreSQL**
+
+A modern e-commerce application with product catalog, authentication, shopping cart, and order management.
+
+🔗 Repository: https://github.com/SanthoshKumar-PS/Trendora-Shopping
+
+---
+
+### 🔗 URL Shortener
+**React • TypeScript • Node.js**
+
+A URL shortening service with custom aliases, analytics, and QR code generation.
+
+🔗 Repository: https://github.com/SanthoshKumar-PS/url-shortener
+
+---
+
+### 🏡 Real Estate Website
+**React • TypeScript**
+
+A real estate platform for browsing properties, advanced search, and property listing management.
+
+🔗 Repository: https://github.com/SanthoshKumar-PS/Real-Estate-Website
+
+---
+
 ### 🚀 Flutter & Full-Stack Projects
 
 - ✅ **[TimelyTrack - Attendance Tracking System](https://github.com/SanthoshKumar-PS/flutter-projects/tree/main/attendance_tracking)**  
